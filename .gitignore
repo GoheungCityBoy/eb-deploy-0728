@@ -10,4 +10,4 @@ media
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstal/*.global.yml
+!.elasticbeanstal/*.global.ymlgit
